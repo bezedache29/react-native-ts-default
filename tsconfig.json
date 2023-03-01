@@ -1,0 +1,4 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "include": [".eslintrc.js", "src/**/**/*", "./index.js", "./types/**/*", "./babel.config.js", "src/themes",]
+}
